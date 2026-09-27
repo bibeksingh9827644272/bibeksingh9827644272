@@ -1,6 +1,27 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>* 🎓 I'm a **Computer Science Undergraduate** with an interest in **Software Development, Data Science, Data Analysis, and Machine Learning**.<br>* 💻 Skilled in **Python, Java, Django, Spring Boot, MySQL, Git/GitHub, and AWS**.<br>* 📊 Familiar with **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow** for data analysis and machine learning.<br>* 🌱 Currently learning **Cloud Computing, DevOps, Deep Learning, and advanced Machine Learning**.<br>* 🚀 Passionate about building practical, scalable, and data-driven applications.<br>* 🤝 Open to **internship opportunities, open-source contributions, and collaborative projects**.<br>* 💡 Always eager to learn new technologies and improve my programming and problem-solving skills.<br>
+👨‍💻 About Me
 
+I am a Computer Science Undergraduate with a strong interest in Software Development, Data Science, Data Analysis, and Machine Learning. I enjoy designing and developing practical solutions that combine software engineering with data-driven technologies.
+
+🛠️ Technical Skills
+Programming: Python,  Django, Spring Boot, REST APIs
+Data Science: NumPy, Pandas, Matplotlib, Seaborn
+Machine Learning: Scikit-learn, TensorFlow
+Database: MySQL
+Cloud & DevOps: AWS, Git, GitHub
+
+🌱 Currently Learning
+
+Cloud Computing, DevOps, Deep Learning, Advanced Machine Learning, and scalable software development.
+
+🚀 Professional Interests
+
+Software & Backend Development
+Data Science & Data Analytics
+Machine Learning & AI
+Cloud Computing & DevOps
+Open-Source Development
+
+I am focused on continuously improving my technical expertise, problem-solving abilities, and software engineering practices through hands-on projects and real-world applications.
 
 
 # 💻 Tech Stack:
